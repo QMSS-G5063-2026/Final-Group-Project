@@ -1,0 +1,17 @@
+streamlit
+pandas
+numpy
+plotly
+matplotlib
+seaborn
+altair
+Pillow
+pyarrow
+vaderSentiment
+rapidfuzz
+wordcloud
+geopandas
+shapely
+folium
+streamlit-folium
+scipy
