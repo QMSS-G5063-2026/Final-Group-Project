@@ -16,6 +16,6 @@ This repository contains the materials for our QMSS G5063 final group project, i
 - Project proposal
 - Data source
 - Analysis code
-- Interactive Web Application
-- process book
+- Interactive web application
+- Process book
   etc.
